@@ -1,0 +1,56 @@
+
+body {
+background:#41d9fe fixed;"
+}
+
+.star{
+    color: red
+  }
+
+  #menu {
+  position: fixed;
+  bottom:0%;
+  width:100px;
+  margin-top: 2.5em;
+  padding-right: 10px;
+}
+
+#menu_image{
+	width:30px;
+	height: auto;
+}
+
+.error {
+  color: #ff0000;
+  }
+
+.blue{
+background: radial-gradient(circle, rgba(65,217,254,1) 0%, rgba(4,4,139,1) 100%);
+}
+
+label{
+  color:#181791; 
+}
+
+#navbars {
+  overflow: hidden;
+  background-color: #333;
+}
+
+#logo{
+  width: 100px;
+  height: auto;
+  padding: 20px 10px 20px 10px;
+
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.img{
+  background: url(image/water.jpg);
+}
+
